@@ -3,11 +3,7 @@
 Este repositório contém uma **coleção de desafios backend desenvolvidos com Node.js e Express**.  
 Cada pasta representa um **pequeno projeto independente**, criado para praticar conceitos fundamentais do desenvolvimento de APIs e servidores em Node.js.
 
----
-
 Cada **desafio** é um **projeto Node.js autônomo**, com seu próprio servidor Express configurado.
-
----
 
 ## 🧰 Configuração e Execução
 
